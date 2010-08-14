@@ -5,16 +5,19 @@
 ### Git
 
 	cd ~/Desktop
-	git clone git://github.com/skyzyx/CloudFusion.tmbundle.git
-	open ~/Desktop/CloudFusion.tmbundle
+	git clone git://github.com/skyzyx/textmate-themes.git
 
 ...or...
 
 ### Subversion
 
 	cd ~/Desktop
-	svn co http://svn.github.com/skyzyx/CloudFusion.tmbundle.git CloudFusion.tmbundle
-	open ~/Desktop/CloudFusion.tmbundle
+	svn co http://svn.github.com/skyzyx/textmate-themes.git textmate-themes
+
+...then...
+
+1. Open the `textmate-themes` directory on your desktop.
+2. Double click the theme you want to install.
 
 
 ## About
